@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lauraosborn
+- 👀 I’m interested in cloud technologies; specifically AWS
+- 👩🏼‍🎓 I'm a degree apprentice student currently studying for my BSc in Digital and Technology Solutions 
+- 📚 I study computer science and developer basics in my free time 
+- 🌱 I’m currently learning how to create my own web app and launch it in AWS
+- 💞️ I’m still new to collaboration
+- 📫 Reach me at linkedin.com/laura-osborn-12982413a
